@@ -1,4 +1,4 @@
-# 📋 Person Manager App
+# 📋 Person Manager App (5th semester, late 2024)
 
 A simple SwiftUI **CRUD** application to manage personal contact information.
 
