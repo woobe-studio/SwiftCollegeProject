@@ -15,8 +15,8 @@ A simple SwiftUI **CRUD** application to manage personal contact information.
 
 ## Screenshots
 
-<img src="git_images/adduser.webp">
-<img src="git_images/viewuser.webp">
+<img src="git_images/adduser.png">
+<img src="git_images/viewuser.png">
 
 ## Requirements
 
